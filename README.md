@@ -7,3 +7,7 @@
 A análise de corridas feitas no ano de 2017, 2018 e 2019. 
 
 ![views](https://github.com/anacarolinatvres/bike-sharing-brasiliabr/blob/master/image/views.png)
+
+:computer: :heart: :chart_with_upwards_trend:
+
+![](https://github.com/anacarolinatvres/bike-sharing-brasiliabr/blob/master/gif/bikebrasiliasharing.gif)
